@@ -1,0 +1,8 @@
+print ('enter 2 numbers : ')
+x = input()
+y = input()
+num1 = int(x)
+num2 = int(y)
+print ('sum = ', num1+num2)
+z = int(input('enter another number : '))
+print ('another no is = ', z)
