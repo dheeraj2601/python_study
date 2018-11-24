@@ -1,0 +1,14 @@
+import sys
+
+
+print()
+sys.stderr.write("hello stderr")
+sys.stderr.flush()
+print()
+sys.stdout.write("hello stdout")
+print()
+
+print (sys.argv[1])
+print (sys.argv[2])
+
+print (len(sys.argv))
