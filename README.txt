@@ -19,6 +19,8 @@ which -a python3.4
 source myenv/bin/activate
 
 
+apt-get install python-pip
+
 python2 - pip upgrade
 
 cd /tmp
