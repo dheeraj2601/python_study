@@ -29,3 +29,7 @@ then :
 
 python -m pip install paramiko XlsxWriter
 
+
+easy_install -U cffi
+
+
