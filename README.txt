@@ -18,3 +18,14 @@ which -a python3.4
 /usr/bin/python3.4 -m venv myenv
 source myenv/bin/activate
 
+
+python2 - pip upgrade
+
+cd /tmp
+wget https://bootstrap.pypa.io/get-pip.py
+python get-pip.py
+rm get-pip.py -f
+then :
+
+python -m pip install paramiko XlsxWriter
+
