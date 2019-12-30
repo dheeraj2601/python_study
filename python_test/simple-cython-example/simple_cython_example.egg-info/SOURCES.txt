@@ -1,0 +1,11 @@
+setup.py
+cython_example_proj/__init__.py
+cython_example_proj/profile.py
+cython_example_proj/wrapped.pyx
+cython_example_proj/lib/cfunc.c
+simple_cython_example.egg-info/PKG-INFO
+simple_cython_example.egg-info/SOURCES.txt
+simple_cython_example.egg-info/dependency_links.txt
+simple_cython_example.egg-info/not-zip-safe
+simple_cython_example.egg-info/requires.txt
+simple_cython_example.egg-info/top_level.txt
