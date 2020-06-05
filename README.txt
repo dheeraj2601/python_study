@@ -8,8 +8,8 @@ https://docs.python.org/release/2.5.2/ext/callingPython.html
 
 
 
-
-
+list of modules installed in the system :
+help('modules')
 
 
 pip3 --version
