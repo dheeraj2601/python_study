@@ -34,6 +34,11 @@ python -m pip install paramiko XlsxWriter
 
 easy_install -U cffi
 
+
+Test module installing in one liner 
+python -c "import netifaces"
+
+
 rm -rf /usr/lib/python2.7/dist-packages/OpenSSL
 rm -rf /usr/lib/python2.7/dist-packages/pyOpenSSL-0.15.1.egg-info
 sudo pip install pyopenssl
